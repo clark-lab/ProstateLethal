@@ -1,7 +1,7 @@
 # Prostate Cancer Mortality DNA Methylation Analysis
 This repository contains code used for the analysis reported in Pidsley, et al. [Journal title TBC] with  contributions from Ruth Pidsley, Dilys Lam, Timothy Peters, Phuc-Loi Luu and Aaron Statham
 
-Please direct correspondence related to this manuscript to Prof Susan Clark (s.clark@garvan.org.au) or Dr Ruth Pidsley (r.pidsley@garvan.org.au)\
+Please direct correspondence related to this manuscript to Prof Susan Clark (s.clark@garvan.org.au) or Dr Ruth Pidsley (r.pidsley@garvan.org.au)
 
 
 ##### Raw and processed Whole Genome Bisulfite Sequencing (WGBS) data
