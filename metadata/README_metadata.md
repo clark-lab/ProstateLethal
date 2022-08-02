@@ -1,6 +1,6 @@
 # Metadata 
 
-##### **Input files required to run the scripts in this repository:** 
+#### **Input files required to run the scripts in this repository:** 
 
 **AnnotateRegions_updown_update.R** - R code for annotating DMRs, adapted from a function in the aaRon package (https://github.com/astatham/aaRon/)
 
