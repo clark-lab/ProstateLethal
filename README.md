@@ -13,7 +13,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE86832
 
 
 ##### Targeted Multiplex Bisulphite PCR Sequencing (MBPS) data 
-Prostate cancer data, generated in this study, available through this GitHub website.
+Prostate cancer data, generated in this study, available through this GitHub website.\
 https://github.com/clark-lab/ProstateLethal/tree/main/MBPS/data
 
 ##### Public DNA methylation 450K microarray data
@@ -30,7 +30,7 @@ https://portal.gdc.cancer.gov
 
 
 ##### Metadata
-Additional data required for the analysis are available through this GitHub website.
+Additional data required for the analysis are available through this GitHub website.\
 https://github.com/clark-lab/ProstateLethal/tree/main/metadata
 
 
